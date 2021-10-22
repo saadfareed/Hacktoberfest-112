@@ -3,7 +3,7 @@
 #Name: Saad fareed
 #Username:saadfareed
 
-#program to find the position of senetence in the corpra 
+#program to find the position of sentence in the corpra 
 def position(inde):
     flag=False
     sentence= "my name is Saad fareed. I am student of Computer Science.Need help bro. I am from Session 18 and Section A."
