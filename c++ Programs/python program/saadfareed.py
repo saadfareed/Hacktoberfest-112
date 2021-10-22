@@ -16,3 +16,5 @@ def position(inde):
             print(sentence.index(inde))
     return flag
 print(position(" I am from Session 18 and Section A"))
+
+#end of program
